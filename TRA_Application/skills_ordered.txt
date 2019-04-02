@@ -1,0 +1,74 @@
+Back drop
+Back somersault (pike)
+Back somersault (straight)
+Back somersault (tuck)
+Back somersault to seat (pike)
+Back somersault to seat (straight)
+Back somersault to seat (tuck)
+Barani (Straight)
+Barani (piked)
+Barani (tucked)
+Barani ball out (pike)
+Barani ball out (straight)
+Barani ball out (tuck)
+Barani in - back out (pike)
+Barani in - back out (straight)
+Barani in - back out (tuck)
+Cody (pike)
+Cody (straight)
+Cody (tuck)
+Corkscrew
+Crash Dive
+Double back (piked)
+Double back (straight)
+Double back (tucked)
+Double bounce roll (pike)
+Double bounce roll (tuck)
+Front drop
+Front somersault (pike)
+Front somersault (straight)
+Front somersault (tuck)
+Full
+Full full (pike)
+Full full (straight)
+Full full (tuck)
+Full in - half out (pike)
+Full in - half out (straight)
+Full in - half out (tuck)
+Full in - rudi out (straight)
+Full twist jump
+Half in - half out (pike)
+Half in - half out (tuck)
+Half out (pike)
+Half out (tuck)
+Half out ball out (pike)
+Half out ball out (tuck)
+Half twist jump
+Half twist to back drop
+Half twist to crash dive
+Half twist to feet
+Half twist to front drop
+Half twist to seat drop
+Lazy back (pike)
+Lazy back (straight)
+Lazy back (tuck)
+Miller
+One and a half twist jump
+One and three (pike)
+One and three (tuck)
+Pike jump
+Randy
+Rudi
+Rudi out (pike)
+Rudi out (tuck)
+Seat drop
+Straddle jump
+Triff half in - half out (pike)
+Triff half in - half out (tuck)
+Triff half out (pike)
+Triff half out (tuck)
+Triff rudi out (pike)
+Triff rudi out (tuck)
+Tuck jump
+Two and three (pike)
+Two and three (tuck)

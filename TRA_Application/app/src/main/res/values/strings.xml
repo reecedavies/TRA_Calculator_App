@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">TRA_Application</string>
+    <string name="tra_tariff_calculator">TRA Tariff Calculator</string>
+    <string name="_0">0</string>
+    <string name="_0_0">0.0</string>
+
+    <string-array name="skills">
+        <item>Select skill</item>
+        <item>Back drop</item>
+        <item>Back somersault (pike)</item>
+        <item>Back somersault (straight)</item>
+        <item>Back somersault (tuck)</item>
+        <item>Back somersault to seat (pike)</item>
+        <item>Back somersault to seat (straight)</item>
+        <item>Back somersault to seat (tuck)</item>
+        <item>Barani (piked)</item>
+        <item>Barani (straight)</item>
+        <item>Barani (tuck)</item>
+        <item>Barani ball out (pike)</item>
+        <item>Barani ball out (straight)</item>
+        <item>Barani ball out (tuck)</item>
+        <item>Barani in - back out (pike)</item>
+        <item>Barani in - back out (straight)</item>
+        <item>Barani in - back out (tuck)</item>
+        <item>Cody (pike)</item>
+        <item>Cody (straight)</item>
+        <item>Cody (tuck)</item>
+        <item>Corkscrew</item>
+        <item>Crash Dive</item>
+        <item>Double back (piked)</item>
+        <item>Double back (straight)</item>
+        <item>Double back (tuck)</item>
+        <item>Double bounce roll (pike)</item>
+        <item>Double bounce roll (tuck)</item>
+        <item>Front drop</item>
+        <item>Front somersault (pike)</item>
+        <item>Front somersault (straight)</item>
+        <item>Front somersault (tuck)</item>
+        <item>Full</item>
+        <item>Full full (pike)</item>
+        <item>Full full (straight)</item>
+        <item>Full full (tuck)</item>
+        <item>Full in - half out (pike)</item>
+        <item>Full in - half out (straight)</item>
+        <item>Full in - half out (tuck)</item>
+        <item>Full in - rudi out (straight)</item>
+        <item>Full twist jump</item>
+        <item>Half in - half out (pike)</item>
+        <item>Half in - half out (tuck)</item>
+        <item>Half out (pike)</item>
+        <item>Half out (tuck)</item>
+        <item>Half out ball out (pike)</item>
+        <item>Half out ball out (tuck)</item>
+        <item>Half twist jump</item>
+        <item>Half twist to back drop</item>
+        <item>Half twist to crash dive</item>
+        <item>Half twist to feet</item>
+        <item>Half twist to front drop</item>
+        <item>Half twist to seat drop</item>
+        <item>Lazy back (pike)</item>
+        <item>Lazy back (straight)</item>
+        <item>Lazy back (tuck)</item>
+        <item>Miller</item>
+        <item>One and a half twist jump</item>
+        <item>One and three (pike)</item>
+        <item>One and three (tuck)</item>
+        <item>Pike jump</item>
+        <item>Randy</item>
+        <item>Rudi</item>
+        <item>Rudi out (pike)</item>
+        <item>Rudi out (tuck)</item>
+        <item>Seat drop</item>
+        <item>Straddle jump</item>
+        <item>Triff half in - half out (pike)</item>
+        <item>Triff half in - half out (tuck)</item>
+        <item>Triff half out (pike)</item>
+        <item>Triff half out (tuck)</item>
+        <item>Triff rudi out (pike)</item>
+        <item>Triff rudi out (tuck)</item>
+        <item>Tuck jump</item>
+        <item>Two and three (pike)</item>
+        <item>Two and three (tuck)</item>
+    </string-array>
+
+</resources>

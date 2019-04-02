@@ -1,0 +1,11 @@
+onCreate()
+onItemSelected()
+
+checkSkill()
+changeScreenValues()
+updateRoutineTariff()
+
+
+Problem: not changing textviews with specific skills (Solved: if statement condition)
+
+Problem: only changing textview one (Solved: repeated declaration)
