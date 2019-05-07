@@ -1,11 +1,4 @@
-<resources>
-    <string name="app_name">TRA_Application</string>
-    <string name="tra_tariff_calculator">TRA Tariff Calculator</string>
-    <string name="_0">0</string>
-    <string name="_0_0">0.0</string>
-
-    <string-array name="skills">
-        <item>Select skill</item>
+	<item>Select skill</item>
         <item>Back drop</item>
         <item>Back somersault (pike)</item>
         <item>Back somersault (straight)</item>
@@ -78,6 +71,3 @@
         <item>Triff rudi out (pike)</item>
         <item>Triff rudi out (tuck)</item>
         <item>Tuck jump</item>
-    </string-array>
-
-</resources>
